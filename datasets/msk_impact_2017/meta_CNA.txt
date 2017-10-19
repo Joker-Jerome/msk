@@ -1,0 +1,8 @@
+cancer_study_identifier: msk_impact_2017
+genetic_alteration_type: COPY_NUMBER_ALTERATION
+datatype: DISCRETE
+stable_id: cna
+show_profile_in_analysis_tab: true
+profile_name: MSK-IMPACT Clinical Sequencing Cohort (MSKCC)
+profile_description: Targeted sequencing of clinical cases via MSK-IMPACT. Please follow the <a href="http://cmo.mskcc.org/cmo/initiatives/msk-impact/">publication guidelines</a> when using these data in abstracts or journal articles.<br/> <font color="red">These data are available to MSK investigators only, are unpublished, and cannot be shared with anyone outside of MSK.</font> Values: -2 = homozygous deletion; 2 = high level amplification.
+data_filename: data_CNA.txt
