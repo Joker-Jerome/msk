@@ -1,0 +1,29 @@
+## ggplot
+
+## Angela
+## Lin
+```{r}
+# loading the library
+library(ggplot2)
+```
+
+
+```{r}
+qplot(carat, price, data = diamonds)
+qplot(carat, price, data = diamonds, alpha = I(1/10))
+qplot(carat, price, data = diamonds, alpha = I(1/1000))
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
